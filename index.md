@@ -2,7 +2,7 @@
 layout: default
 ---
 
-##Canadian Rules Uno
+## Canadian Rules Uno
 
 - Each of these additional rules are in existence with the games original rules.
 - Players must call out "six" or "nine" if playing a 6 or 9. Failure to do so results in drawing two cards.
