@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Canadian Rules Uno
+layout: default
 ---
 
 ##Canadian Rules Uno
