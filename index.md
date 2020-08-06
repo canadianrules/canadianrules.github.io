@@ -13,7 +13,7 @@ layout: default
 - Game is best played with six or more players.
 
 ### Recommended Hardware
-- [A double deck of Uno cards.](https://www.amazon.com/gp/product/B07P6MZPK3?ie=UTF8&tag=canadianrules-20&camp=1789&linkCode=xm2&creativeASIN=B07P6MZPK3)
+- [A double deck of Uno cards.](https://amzn.to/39ZMYfo)
 - At least 6 beers per person per hour.
 
 ### The History
