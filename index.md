@@ -13,7 +13,7 @@ layout: default
 - Game is best played with six or more players.
 
 ### Recommended Hardware
-- [A double deck of Uno cards.](https://amzn.to/39ZMYfo)
+- [A double deck of Uno cards. (Amazon affiliate link)](https://amzn.to/39ZMYfo)
 - At least 6 beers per person per hour.
 
 ### The History
