@@ -15,6 +15,3 @@ layout: default
 ### Recommended Hardware
 - [A double deck of Uno cards. (Amazon affiliate link)](https://amzn.to/39ZMYfo)
 - At least 6 beers per person per hour.
-
-### The History
-The origins of Canadian Rules Uno can be traced back at least 400 years to a remote island off of Nova Scotia, and are deeply embedded in the history of card game development in early North America. This popular Uno variant traveled slowly through what is now the United States, and was heavily featured in card rooms throughout the American Wild West in the early 1900s. Rumor has it that famous outlaw “Laughing” Sam Carey met his untimely demise 1903 in a gunfight that started with an infamous draw 16. Eventually Canadian Rules Uno made it all the way to Mexico, where it’s still popular to this day among rock climbers and van dwellers.
